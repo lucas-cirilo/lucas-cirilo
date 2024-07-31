@@ -2,19 +2,39 @@
 ## Seja Bem-Vindo
 
 <a href="https://github.com/lucas-cirilo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-cirilo&show_icons=true&theme=radical" />
+  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-cirilo&card_width=auto&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/lucas-cirilo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-cirilo&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=radical"/>
+  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-cirilo&layout=compact&langs_count=8&card_width=auto&show_icons=true&theme=radical"/>
 </a>
 
-### Skills
+
+### 🚀 Skills
 
 <b href="https://github.com/lucas-cirilo"> 
   
-<img height=50 width=100 align="center"   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+<img height=auto width=auto src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img height=auto width=auto src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img height=auto width=auto src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img height=auto width=auto src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&round_badge"/>
 </b>
+
+### 👩‍💻 IDE
+
+<b href="https://github.com/lucas-cirilo"> 
+  
+<img height=auto src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252&width=auto" />
+<img height=auto src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white&width=auto" />
+<img height=auto src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green&width=auto" />
+</b>
+
+
+ ![Jupyter Notebook] 
+
+
+
+
+
 
 
 
