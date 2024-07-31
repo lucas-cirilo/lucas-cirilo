@@ -2,10 +2,10 @@
 ## Seja Bem-Vindo
 
 <a href="https://github.com/lucas-cirilo/github-readme-stats">
-  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api?username=lucas&card_width=auto&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&card_width=auto&theme=radical" />
 </a>
 <a href="https://github.com/lucas-cirilo/convoychat">
-  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-cirilo&layout=compact&langs_count=8&card_width=auto&show_icons=true&theme=radical"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-cirilo&layout=compact&langs_count=8&card_width=auto&show_icons=true&theme=radical"/>
 </a>
 
 
@@ -29,7 +29,7 @@
 </b>
 
 
- ![Jupyter Notebook] 
+
 
 
 
