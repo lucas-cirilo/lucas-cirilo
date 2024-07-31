@@ -1,4 +1,4 @@
-<!--# Olá, Eu sou o Lucas Cirilo 👋
+# Olá, Eu sou o Lucas Cirilo 👋
 ## Seja Bem-Vindo
 
 <a href="https://github.com/lucas-cirilo/github-readme-stats">
