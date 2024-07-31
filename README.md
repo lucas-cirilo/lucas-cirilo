@@ -2,12 +2,11 @@
 ## Seja Bem-Vindo
 
 <a href="https://github.com/lucas-cirilo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&width=50&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-cirilo&show_icons=true&width=50&theme=radical" />
 </a>
 <a href="https://github.com/lucas-cirilo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-cirilo&layout=compact&langs_count=8&card_width=50&theme=radical"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-cirilo&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
-
 
 ### 🚀 Skills
 
