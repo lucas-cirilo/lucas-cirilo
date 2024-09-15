@@ -28,10 +28,11 @@
 <img height=auto src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252&width=auto" />
 <img height=auto src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white&width=auto" />
 <img height=auto src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green&width=auto" />
+<img height=auto src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson&width=auto" />
 </div>
 <hr>
 
-<h2> Personal Info </h2>
+<h2> Personal Info </h2>![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 <p> 🌱 I'm currently learning <b> Full stack development </b>. </p> 
 <p> 🤔 My hobbies are <b>Studing languages, gym, running, swim and visit different places</b>. </p>
 <p> 💼 Nowadays working as <b>Nurse Technician</b>. </p>
