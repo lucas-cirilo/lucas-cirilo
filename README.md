@@ -37,5 +37,5 @@
 <p> 🤔 My hobbies are <b>Studing languages, gym, running, swim and visit different places</b>. </p>
 <p> 💼 Nowadays working as <b>Nurse Technician</b>. </p>
 <p> 💬 If you have any questions, <b>just let me know </b>. </p>
-<p> This is my email: <b>llcs0595@gmail.com</b>. </p>
+<p> This is my email: <b>mr.lucascirolo@gmail.com</b>. </p>
 
