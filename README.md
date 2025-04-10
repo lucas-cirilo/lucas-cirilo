@@ -29,13 +29,14 @@
 <img height=auto src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white&width=auto" />
 <img height=auto src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green&width=auto" />
 <img height=auto src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson&width=auto" />
+<img height=auto src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&width=auto" />
 </div>
 <hr>
 
 <h2> Personal Info </h2>
 <p> 🌱 I'm currently learning <b> Full stack development </b>. </p> 
 <p> 🤔 My hobbies are <b>Studing languages, gym, running, swim and visit different places</b>. </p>
-<p> 💼 Nowadays working as <b>Nurse Technician</b>. </p>
+<p> 💼 Nowadays working as <b>Nursing Technician</b>. </p>
 <p> 💬 If you have any questions, <b>just let me know </b>. </p>
 <p> This is my email: <b>mr.lucascirilo@gmail.com</b>. </p>
 
