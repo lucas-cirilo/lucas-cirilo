@@ -38,5 +38,5 @@
 <p> 🤔 My hobbies are <b>Studing languages, gym, running, swim and visit different places</b>. </p>
 <p> 💼 Nowadays working as <b>Nursing Technician</b>. </p>
 <p> 💬 If you have any questions, <b>just let me know </b>. </p>
-<p> This is my email: <b>mr.lucascirilo@gmail.com </b> </p>
+<p> 📧 This is my email: <b>mr.lucascirilo@gmail.com </b> </p>
 
